@@ -76,9 +76,9 @@ Shows About Horses
             S02E02.mp4
             S02E03.mp4
     Free Rein
-    artwork.png
+      artwork.png
         Season 1
-        artwork.png
+            artwork.png
             S01E01.mp4
             S01E02.mp4
             S01E03.mp4
